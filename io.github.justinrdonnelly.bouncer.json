@@ -52,7 +52,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/justinrdonnelly/bouncer.git",
-                    "tag": "48.1.0"
+                    "tag": "48.2.0"
                 }
             ]
         }
