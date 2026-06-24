@@ -46,8 +46,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/justinrdonnelly/bouncer.git",
-                    "tag": "50.0.0",
-                    "commit": "4c53b659b46ee20fefb106478085482bbbd1d1af"
+                    "tag": "50.1.0",
+                    "commit": "536c22cf765ea4dc525eae5f8c5594e5305704be"
                 }
             ]
         }
