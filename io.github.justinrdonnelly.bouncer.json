@@ -1,7 +1,7 @@
 {
     "id": "io.github.justinrdonnelly.bouncer",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "50",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "command": "io.github.justinrdonnelly.bouncer",
     "finish-args": [
@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/flatpak/libportal/releases/download/0.10.0/libportal-0.10.0.tar.xz",
-                    "sha256": "1c74a3f7becbd4ff745d7f565afd06e97e50eb080a0e268cb14bb55289a745bf"
+                    "url": "https://github.com/flatpak/libportal/releases/download/0.11.0/libportal-0.11.0.tar.xz",
+                    "sha256": "abb9e452a1c372133bd3eb8f0bb30d07b2d0a8fb02001c4155cf287555db4040"
                 }
             ]
         },
@@ -46,8 +46,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/justinrdonnelly/bouncer.git",
-                    "tag": "50.2.0",
-                    "commit": "f084f5f9525e269bca2287de1f3a337591a46d56"
+                    "tag": "51.0.0",
+                    "commit": "449e6b4a99d9b249d419eb2c9b92b91beb047a1b"
                 }
             ]
         }
